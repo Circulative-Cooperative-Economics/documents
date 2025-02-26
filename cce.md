@@ -1,5 +1,9 @@
 # Circulative Cooperative Economics (CCE): Balancing Innovation, Long-Term Thinking, and Stability
 
+## Acknowledgements
+
+In this document you will read about a new economic system. Outlined are ways it could work, but the details are by no means set in stone. The important thing are the principles at play.
+
 ## Introduction
 
 From the moment we planted our first fields, humanity has consistently produced more than its members required for simple survival. In truth, we have been in a post-scarcity world ever since the agricultural revolution—yet many still go hungry or struggle under needless scarcity. Circulative Cooperative Economics (CCE) is an attempt to finally align our social and financial systems with the reality of abundance we have long enjoyed. By ensuring that wealth continually circulates, rewarding all contributors fairly, and providing everyone a baseline of support, CCE offers a path out of the fear-based scramble for resources. When money can no longer be hoarded and every person shares in the value they help create, cooperation becomes second nature. It is a vision of an economy that nurtures both individual creativity and collective well-being, inspiring hope that our next great leap forward lies in harnessing what we already have—enough for all.
